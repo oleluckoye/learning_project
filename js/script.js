@@ -7,5 +7,5 @@ let storeDescription = {
         iphone12: 120000,
         iphone13: 130000
     },
-    open: open
+    open: closed
 }
